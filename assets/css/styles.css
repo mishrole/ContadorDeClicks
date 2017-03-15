@@ -1,0 +1,31 @@
+html{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+#container {
+	margin-top: 60px;
+}
+
+.centrado {
+	text-align: center;
+}
+
+#boton {
+	margin-top: 30px;
+}
+
+.clase-div {
+	display: inline-block;
+	margin-top: 25px;
+	margin-right: 10px;
+	border: 1px solid black;
+	width: 120px;
+}
+
+.clase-boton {
+	width: 300px;
+}
